@@ -33,9 +33,9 @@ color:
 # Footer settings
 footer:
   copyright: Nagib Gonzalez
-  location: New York
+  location: Location
   social: social
-  credits: Credits
+  
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -50,9 +50,6 @@ social:
 address: 
   - line: New York,
   - line: New York
-
-# Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
