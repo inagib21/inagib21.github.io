@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: null
 modal-id: 1
 Github Repo: [Project](https://github.com/inagib21/BuildingPermitAnalysis)
 img: ![image](https://github.com/inagib21/inagib21.github.io/assets/45716414/7952b5d2-473c-41fc-a555-7928668923e1)
