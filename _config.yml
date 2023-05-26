@@ -4,8 +4,15 @@ email: inagib21l@gmai.com
 url: https://github.com/inagib21
 description: "Nagib Gonzalez is a data scientist who is passionate about turning data into insights. Let's <a href="https://www.linkedin.com/in/nagibgonzalez/"> connect</a>  and strategize together! "
 keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+skills: "Python, SQL, NoSQL, Git Machine Learning (Sci-kit-learn, Tensorflow, Pytorch, Keras)</li>
+								  <li>Data Analysis and Visualization (NumPy, Pandas, Seaborn, Plotly)</li>
+								  <li>Cloud Computing (AWS)</li>
+								  <li>Big Data (PySpark)</li>
+								  <li>ETL Processes</li>
+								  <li>Statistical Analysis</li>
+								  <li>Project Management Tools</li>
+								</ul>"
+meta_author: Gonzalez Nagib
 
 # Google webmaster tools
 google_verify:
@@ -33,7 +40,7 @@ color:
 # Footer settings
 footer:
   copyright: Dr. Henry Jekyll
-  location: Location
+  location: New York
   social: Around the Web
   credits: Credits
 
